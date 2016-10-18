@@ -1,14 +1,14 @@
 ## OpenGLTerrain
 Flying over a terrain wireframe mesh. 
-Camera keyboard controls:
-up - up
-down - down
-left - left
-right - right
-a - forward
-z - backward
-s - rotate right
-x - rotate left
+<p>Camera keyboard controls:</p>
+<p>up - up</p>
+<p>down - down</p>
+<p>left - left</p>
+<p>right - right</p>
+<p>a - forward</p>
+<p>z - backward</p>
+<p>s - rotate right</p>
+<p>x - rotate left</p>
 
 ## Uses OpenGL and GLUT
 https://www.opengl.org/resources/libraries/glut/
